@@ -1,2 +1,2 @@
 # SnakeGame-with-GeneticAlgorithm
-Using Neural Network and Genetic Algorithm to play SnakeGame 
+Training a neural network-based snake game agent using genetic algorithms for evolutionary improvement
